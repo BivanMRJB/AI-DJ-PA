@@ -1,0 +1,57 @@
+.heading
+{
+    margin: 0;
+    font-size: 30px;
+    width: 100%;
+}
+.note
+{
+    font-size: 20px;
+    color: black;
+}
+body
+{
+    background-size: cover;
+}
+#speed
+{
+    font-size: 30px;
+    margin: 15px;
+}
+.div_speed
+{
+    float: left;
+}
+.div_volume
+{
+    float: right;
+}
+#volume
+{
+    font-size: 30px;
+    margin: 15px;
+}
+.div_volume_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+.div_speed_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+.play_button{
+    width: 130px;
+    font-size: 25px;
+    margin-left: 420px;
+}
+canvas{
+    border: 5px solid red;
+margin-top: 40px;
+
+}
+.stop_button{
+    width: 130px;
+    font-size: 25px;
+}
